@@ -1,7 +1,7 @@
 def my_hash(this_hash)
   this_hash => {
-    :bike => {"Pivot", "Lotus", "Marin"}
-    :car => {"VW", "Mercedes"}
+    "bike" => {"Pivot", "Lotus", "Marin"}
+    "car" => {"VW", "Mercedes"}
   }
 end
 
