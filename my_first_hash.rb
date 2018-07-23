@@ -1,5 +1,5 @@
 def my_hash
-  this_hash => {
+  my_hash => {
     "bike" => "Pivot",
     "car" => "VW",
   }
