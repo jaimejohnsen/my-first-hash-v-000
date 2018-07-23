@@ -1,9 +1,9 @@
-def my_hash
+
   its_mine = {
     bike => "Pivot", "Lotus", "Marin"
     car => "VW", "Mercedes"
   }
-end
+
 
 
 def shipping_manifest
