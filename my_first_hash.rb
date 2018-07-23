@@ -1,5 +1,5 @@
-def my_hash()
-  its_mine = {
+def my_hash(this_hash)
+  this_hash = {
     bike => "Pivot", "Lotus", "Marin"
     car => "VW", "Mercedes"
   }
