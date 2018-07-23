@@ -4,8 +4,6 @@ def my_hash
     "car" => "VW",
   }
 end
-my_hash
-end
 
 
 
