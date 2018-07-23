@@ -1,7 +1,7 @@
 def my_hash
   its_mine = {
     bike => "Pivot", "Lotus", "Marin"
-    car => "VW", "Mercedes"    
+    car => "VW", "Mercedes"
   }
 end
 
