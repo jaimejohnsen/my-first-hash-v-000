@@ -7,7 +7,7 @@ end
 
 
 
-def shipping_manifest()
+def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
   the_manifest = {
     "whale_bone_corsets" => 5,
