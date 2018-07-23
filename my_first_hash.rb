@@ -1,4 +1,4 @@
-def my_hash(this_hash)
+def my_hash
   this_hash => {
     "bike" => "Pivot",
     "car" => "VW",
