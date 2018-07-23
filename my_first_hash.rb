@@ -4,6 +4,7 @@ def my_hash(this_hash)
     "car" => "VW",
   }
 end
+this_hash
 end
 
 
